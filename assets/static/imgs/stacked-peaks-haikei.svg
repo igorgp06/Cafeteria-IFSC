@@ -1,0 +1,6 @@
+<svg id="visual" viewBox="0 0 900 600" width="900" height="600" xmlns="http://www.w3.org/2000/svg"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
+    <path transform="rotate(0,424,439.5)" d="M -523 633 L 419 503.3 L 1361 602.5 L 1361 325.4 L 419 272 L -523 325.4 Z" fill="#b79075"></path>
+    <path transform="matrix(1,0,0,1,20.1,-14.2)" d="M -706.2 811.5 L 420.9 683.6 L 1547.9 762.3 L 1547.9 493.4 L 420.9 365.6 L -706.2 532.8 Z" fill="#7b584b"></path>
+    <path d="M -883 778 L 429 778 L 1741 778 L 1741 565.1 L 429 477 L -883 620.2 Z" fill="#402624"></path>
+</svg>
