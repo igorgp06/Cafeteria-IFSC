@@ -1,8 +1,9 @@
 ## Um site de estático para um trabalho do IFSC
 
-Foi criado um site estático para o trabalho de fundamentos de sistemas para internet (IFSC SI2025)   
+Foi criado um site estático para o trabalho de fundamentos de sistemas para internet (IFSC SI2025)     
 
-Veja o site clicando [aqui](#) ou copie o cole este link no seu navegador: `#`
+Veja o site clicando [*aqui*](https://igorgp06.github.io/Cafeteria-IFSC/) ou copie o cole este link no seu navegador:     
+`https://igorgp06.github.io/Cafeteria-IFSC/`    
 
 ## Controle Versional (GIT)
 
@@ -37,8 +38,8 @@ Para dúvidas, sugestões ou qualquer outra questão, envie um e-mail para: ouvi
 ## Status
 
 <div align="start" style="height: 24px">
-    <img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Figdeveloper.com.br%2F&up_message=ONLINE&up_color=ae7ef2&down_message=OFFLINE&down_color=f2efeb&style=for-the-badge">
-    <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/igorgp06/portifolio-igorgpDEV?style=for-the-badge&color=orange">
-    <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/t/igorgp06/portifolio-igorgpDEV?style=for-the-badge">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/igorgp06/portifolio-igorgpDEV?style=for-the-badge">
+    <img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Figorgp06.github.io%2FCafeteria-IFSC%2F&up_message=ONLINE&up_color=GREEN&down_message=OFFLINE&down_color=RED&style=for-the-badge">
+    <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/igorgp06/Cafeteria-IFSC?style=for-the-badge&logo=html5&color=orange">
+    <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/t/igorgp06/Cafeteria-IFSC?style=for-the-badge&color=purple">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/igorgp06/Cafeteria-IFSC?display_timestamp=author&style=for-the-badge&color=purple">
 </div>

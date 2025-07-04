@@ -5,11 +5,11 @@
 
 :root {
     /* palheta */
-    --color-1: #f5f0e6;
-    --color-2: #4e342e;
-    --color-3: #c49b63;
-    --color-4: #333333;
-    --color-5: #6b2c2f;
+    --color-1: #F2CEA2;
+    --color-2: #BF681B;
+    --color-3: #D9965B;
+    --color-4: #8C2B07;
+    --color-5: #402624;
 
     /* fonts */
     --emphasis-text: 'Cormorant Garamond', 'Times New Roman', 'Arial', sans-serif;
