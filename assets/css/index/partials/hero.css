@@ -21,29 +21,48 @@
 }
 
 .hero-text {
-    border-radius: 1rem;
-    padding: 2rem;
-    background-color: #d9965b44;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.027);
     display: flex;
     flex-direction: column;
-    align-items: center;
-    justify-content: center;
+    align-items: start;
+    justify-content: start;
+    text-align: start;
     max-width: 600px;
-    text-align: center;
+    transition: all ease-in-out 0.3s;
+    margin-top: 2rem;
+}
+
+.hero-title {
+    font-size: 2.4rem;
+    color: var(--color-5);
+    font-weight: 700;
+    margin: 0;
+    font-family: var(--emphasis-text);
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.1);
+    letter-spacing: -0.05rem;
     transition: all ease-in-out 0.3s;
 }
 
-.hero-text:hover {
-    background-color: #d9965b88;
-    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.1);
-    transform: scale(1.02);
+.hero-title span {
+    color: var(--color-4);
+    letter-spacing: -0.05rem;
+    text-decoration: underline;
+    transition: all ease-in-out 0.3s;
+}
+
+.hero-title:hover  {
+    color: var(--color-4);
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+    font-size: 2.6rem;
+}
+
+.hero-title:hover span {
+    color: var(--color-5);
 }
 
 .hero-description {
-    font-size: 1rem;
+    font-size: 1.2rem;
     color: black;
-    margin-bottom: 1.5rem;
+    margin: 1.5rem 0 1.5rem 0;
     font-family: var(--normal-text);
 }
 
