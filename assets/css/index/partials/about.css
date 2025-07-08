@@ -3,7 +3,7 @@
 /* about */
 
 .about {
-        margin: 0 auto;
+    margin: 0 auto;
     padding: 1rem;
     height: auto;
     min-height: 90vh;
@@ -14,5 +14,88 @@
     align-items: center;
     text-align: center;
     background-color: var(--color-5);
+}
 
+.about-title {
+    font-size: 2.5rem;
+    font-weight: 700;
+    color: var(--color-1);
+    margin-bottom: 1rem;
+    font-family: var(--emphasis-text);
+}
+
+.about-description {
+    font-size: 1.3rem;
+    font-weight: 400;
+    color: var(--color-3);
+    margin-bottom: 2rem;
+    max-width: 800px;
+    line-height: 1.5;
+}
+
+.about-btn {
+    display: inline-block;
+    padding: 0.75rem 1.5rem;
+    font-size: 1rem;
+    color: var(--color-1);
+    background-color: var(--color-2);
+    border: none;
+    border-radius: 0.5rem;
+    text-decoration: none;
+    font-family: var(--normal-text);
+    transition: all ease-in-out 0.3s;
+}
+
+.about-btn:hover {
+    background-color: var(--color-1);
+    color: var(--color-2);
+}
+
+.about .card {
+    padding: 1rem;
+    max-width: 100%;
+    height: 100%;
+    border-radius: 20px;
+    min-height: 325px;
+    gap: 1rem;
+    background-color: var(--color-1);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    text-align: center;
+    overflow: hidden;
+    overflow-x: hidden;
+    text-align: center;
+    transition: all 0.5s ease-in-out;
+}
+
+.about .card:hover {
+    transform: scale(1.05);
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.2);
+}
+
+.about .card img {
+    width: 100%;
+    height: auto;
+    border-radius: 20px;
+        transition: all 0.5s ease-in-out;
+}
+
+.about .card img:hover {
+    transform: scale(1.05);
+}
+
+.card-title {
+    font-size: 1.5rem;
+    font-weight: 700;
+    margin-bottom: 1rem;
+    font-family: var(--emphasis-text);
+}
+
+.card-text {
+    color: black;
+    font-size: 1.1rem;
+    font-weight: 475;
+    text-align: center;
 }

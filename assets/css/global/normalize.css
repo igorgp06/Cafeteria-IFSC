@@ -16,9 +16,18 @@ body {
     font-family: var(--normal-text);
 }
 
+h1, h2, h3, h4, h5, h6 {
+    font-family: var(--emphasis-text);
+}
+
 a {
     text-decoration: none !important;
     color: black;
+    font-family: var(--normal-text);
+}
+
+p {
+    font-family: var(--normal-text);
 }
 
 img {
@@ -28,6 +37,7 @@ img {
 
 ul {
     list-style: none;
+    font-family: var(--normal-text);
 }
 
 button {
